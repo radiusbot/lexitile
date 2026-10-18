@@ -2,4 +2,4 @@
 
 Hosted legal pages for the Scrabble Dictionary app (Lexitile):
 
-- [Privacy Policy](https://bshinu51.github.io/lexitile-legal/)
+- [Privacy Policy](https://bshinu51.github.io/lexitile/)
