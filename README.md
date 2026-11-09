@@ -1,5 +1,9 @@
 # Lexitile Legal
 
-Hosted legal pages for the Scrabble Dictionary app (Lexitile):
+Hosted pages for the Lexitile - Scrabble Dictionary app:
 
-- [Privacy Policy](https://bshinu51.github.io/lexitile/)
+- [Privacy Policy](https://radiusbot.github.io/lexitile/)
+- [Support](https://radiusbot.github.io/lexitile/support/)
+
+Sources live in the app repo (`docs/privacy-policy.html`, `docs/support.html`);
+copy them here to publish.
